@@ -1,0 +1,13 @@
+interface:
+  display_name: 拙趣映画
+  short_description: 把影视氛围与日常场景画成有纸感、留白和自然人物比例的拙趣手绘插画
+  default_prompt: 用 $zhuoqu-cinema 画一张有《鬼怪》海边相遇氛围的拙趣插画。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
